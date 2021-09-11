@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Đăng Duy",
+        "phone": "0123123123",
+        "position": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Đỗ Thế Duy",
+        "phone": "0123123123",
+        "position": "user"
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Viết Dũng",
+        "phone": "0123123123",
+        "position": "user"
+    },
+    {
+        "id": 4,
+        "name": "Hà Văn Tú",
+        "phone": "0123123123",
+        "position": "user"
+    },
+    {
+        "id": 5,
+        "name": "Đỗ Phúc Đại",
+        "phone": "0123123123",
+        "position": "user"
+    },
+    {
+        "id": 6,
+        "name": "Bùi Sỹ Đức",
+        "phone": "0123123123",
+        "position": "user"
+    }
+]
